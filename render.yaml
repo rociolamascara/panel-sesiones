@@ -1,7 +1,6 @@
 databases:
   - name: panel-sesiones-db
     databaseName: panel_sesiones
-    databaseUser: dbuser
 
 services:
   - type: web
